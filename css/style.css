@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+}
+
+
+h1{
+    
+}
+
+
+.clearfix{
+    display: table;
+    content: ' ';
+    clear: both;
+}
+
+
+.target{
+    float: left;
+    background-color: black;
+    min-height: 80px;
+    width: 300px;
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 80px;
+    float: left;
+}
+
+.name{
+    color: white;
+    font-size: 15px;
+    margin-left: 87px;
+    margin-top: 10px;
+}
+
+
+.job{
+    color: white;
+    font-size: 12px;
+    padding-left: 88px;
+    margin-top: 3px;
+}
+
+
+
+.mail{
+    color: rgb(73, 232, 232);
+    font-size: 10px;
+    padding-left: 88px;
+    margin-top: 3px;
+}
+
